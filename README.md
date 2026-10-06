@@ -16,5 +16,8 @@ Droidbridge
 
 for the client you just need the fabric mod and the client (those with .jar)
 
-
 to open: Right shift 
+
+
+
+the .txt is my config, you copy the text and put on profiles then you load it (this is my config for anarchy cpvp servers)
