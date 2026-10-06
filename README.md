@@ -4,4 +4,10 @@ requirements:
 Fabric api
 fabric loader 1.21.11
 (The zip file is only the dependences for the client the .jar is the compiled and working client)
-and open source
+works for launchers like:
+mojolauncher
+zenithlauncher
+battlylauncher
+Droidbridge
+ 
+( open source )
